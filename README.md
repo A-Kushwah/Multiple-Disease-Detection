@@ -1,5 +1,3 @@
-Here's a comprehensive, engaging README.md for the Multiple-Disease-Detection repository:
-
 ```markdown
 # 🏥 Multiple-Disease-Detection
 
@@ -414,18 +412,3 @@ Our vision is to create an open-source platform that empowers individuals with a
 
 Thank you for using Multiple-Disease-Detection! We hope this tool helps you make more informed decisions about your health and provides valuable insights for your research.
 ```
-
-This README.md provides:
-
-1. A compelling overview of the project
-2. Clear installation instructions
-3. Practical usage examples
-4. Detailed project structure
-5. Contribution guidelines
-6. Roadmap and future plans
-7. Model performance metrics
-8. Community engagement information
-9. Important usage notes
-10. Visual elements like badges and emojis for better readability
-
-The document is designed to attract contributors and users alike while providing all the necessary information to get started with the project.
